@@ -1,6 +1,6 @@
 {
   "name": "@univision/jest-styled-components",
-  "version": "7.0.1",
+  "version": "7.0.2",
   "description": "Jest utilities for Styled Components with displayName fix",
   "main": "./src/index.js",
   "typings": "./typings/index.d.ts",
