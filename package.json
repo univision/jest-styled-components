@@ -1,5 +1,5 @@
 {
-  "name": "@univision/jest-styled-components",
+  "name": "jest-styled-components-univision",
   "version": "7.0.4",
   "description": "Jest utilities for Styled Components with displayName fix",
   "main": "./src/index.js",
@@ -10,9 +10,6 @@
     "src",
     "typings"
   ],
-  "publishConfig": {
-    "access": "restricted"
-  },
   "repository": "git@github.com:styled-components/jest-styled-components.git",
   "author": "Michele Bertoli",
   "license": "MIT",
